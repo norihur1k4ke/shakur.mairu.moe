@@ -1,0 +1,123 @@
+---
+title: "우리 에어 샤커가 여기있어요"
+date: "2025-06-27"
+toc: true
+---
+
+에어 샤커가 출현하거나 언급된 시나리오, 스토리 이벤트들의 목록을 모아둔 포스트입니다. 
+
+## 메인 스토리
+
+### 우마무스메 메인스토리 2장?
+
+## 캐릭터 스토리
+
+### 에어 샤커 캐릭터 스토리 
+🇯🇵 한국어 자막 https://www.youtube.com/watch?v=YOgcy0Stgxk
+
+### 파인 모션 캐릭터 스토리
+🇰🇷 https://youtu.be/hbP7a0mZi7s?si=HN8lQiTsGTw4Y5nw
+
+🇰🇷 https://youtu.be/JJQ8pNNq0DY?si=EHEgubh9OvXFor_s
+
+### 탭 댄스 시티 캐릭터 스토리 
+
+🇰🇷 https://www.youtube.com/watch?v=ckY8vAUnuHM
+
+## 캐릭터별 육성 스토리
+
+캐릭터 이름 옆의 (숫자) 는 에어 샤커가 출현한 이벤트 씬 갯수를 나타냅니다. 
+
+### 에어 샤커
+
+##### 샤커 공통
+
+##### unsigned 에어 샤커
+
+##### Belphegor's Prime 에어 샤커
+
+### 파인 모션 (29)
+
+### 메이쇼 도토 (18)
+
+### 탭댄스 시티 (15)
+
+### 에어 메사이어 (10)
+
+### 라인 크라프트 (4)
+
+### 아그네스 디지털 (3)
+
+### 심볼리 크리스 에스 (3)
+
+### 정글 포켓 (3)
+
+### 나리타 탑 로드 (2)
+
+### 노 리즌 (2)
+
+### 네오 유니버스 (2)
+
+### etc
+- 마야노 탑건
+- 맨하탄 카페
+- 아그네스 타키온
+- 어드마이어 베가
+- 젠노 롭 로이
+- 나리타 타이신
+- 마뷸러스 선데이 
+- 마치카네 탄호이저
+- 다이타쿠 헬리오스
+- 시리우스 심볼리
+- 트랜센드
+- 오르페브르
+
+## 육성 시나리오
+
+### Makeanewtrack 클라이맥스 (6) 
+
+### 그랜드 라이브 (1)
+
+### U.A.F (1)
+
+### 대풍식재 (1)
+
+### 메카 우마무스메 (27)
+
+### 트윙클 레전드 (1)
+
+## 한정 이벤트 스토리
+
+### 오늘 밤, 리뉴・드로와트에서 (今宵、リーニュ・ドロワットで)
+🇰🇷 https://www.youtube.com/watch?v=zs4mPfaFm-c
+
+🇰🇷 https://www.youtube.com/watch?v=LfQyWN5s4yQ
+
+🇰🇷 https://www.youtube.com/watch?v=D2BSkjzHbuY&list=PLs9OqsFFAY1W9BW5X4dM3NXXenMSmEYxC
+
+🇯🇵 https://www.youtube.com/watch?v=V8XNSQv6ObY
+
+### 페어웰을 이어 붙여서 (フェアウェルを継ぎ接いで)
+🇰🇷 https://www.youtube.com/watch?v=nYWy52o9iKI
+
+🇰🇷 https://www.youtube.com/watch?v=yTfnmRefXBU&list=PLFtilRs4WNvBPLalVSff4HQ2o79NbO37b
+
+🇯🇵 https://www.youtube.com/watch?v=Q2WAHXnHK1s
+
+🇯🇵 https://www.youtube.com/watch?v=CJxKlJEo-vs
+
+## 발렌타인 초콜릿 이벤트
+
+## 서포터 카드 이벤트
+
+### 에어 샤커 공통 이벤트
+
+### 에어 샤커 카드 한정 이벤트
+
+#### SSR - 7cm의 너머로
+
+#### SSR - mag!c number
+
+#### SR - 코스 변두리 피드백
+
+#### SSR - Cocoon
