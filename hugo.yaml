@@ -1,6 +1,6 @@
 baseURL: "https://shakur.mairu.moe/"
 languageCode: ko-kr
-title: "에어 샤커에게 구원은 있는가"
+title: "Parcae"
 enableGitInfo: true
 menu:
   main:
@@ -9,7 +9,7 @@ menu:
       weight: 1
 
 params:
-  description: "에어 샤커 고통받는 이야기"
+  description: "샤커 중심 이것저것 모아두는 사이트"
   noSearch: false
 
 markup:
