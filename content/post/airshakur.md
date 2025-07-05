@@ -83,6 +83,9 @@ toc: true
 
 ### U.A.F (1)
 
+#### 과유불급!
+🇰🇷 https://youtube.com/shorts/wF2cy34DK4w
+
 ### 대풍식재 (1)
 
 ### 메카 우마무스메 (28)
@@ -114,62 +117,70 @@ toc: true
 ## 서포터 카드 이벤트
 
 ### 에어 샤커 서포터 카드 공통 이벤트
+#### //검증 필요
+🇰🇷 https://youtube.com/shorts/BJds0vId3cg
 
-### SSR - 7cm의 너머로
+#### //꼭 가지고 싶다
+🇰🇷 https://youtube.com/shorts/tF44QQqo15I
 
-### SSR - mag!c number
+### SSR - [7cm의 너머로] 에어 샤커
 
-### SR - 코스 변두리 피드백 에어 샤커 (道端フィードバック)
+### SSR - [mag!c number] 에어 샤커
+
+### SR - [코스 변두리 피드백] 에어 샤커 (道端フィードバック)
 🇯🇵 https://www.youtube.com/watch?v=AMJi4jQzAX8
 
-### SSR - Cocoon 에어 샤커 
+### SSR - [Cocoon] 에어 샤커 
 🇯🇵 https://www.youtube.com/watch?v=9kgf7LTXX7o
 
-### SR - 디지털 충전 중+ 아그네스 디지털 (デジタル充電中＋)
+### SR - [디지털 충전 중+] 아그네스 디지털 (デジタル充電中＋)
 #### 우마무스메를 향한 사랑은 영원해요! (ウマ娘ちゃんへの愛は永遠です！)
-// 한국 출시됨
+🇰🇷 https://youtube.com/shorts/SOStdklUJv4
 
-### SSR - 【공지】신간 있습니다! 아그네스 디지털 (【告知】新刊あります！)
+### SSR - [【공지】신간 있습니다!] 아그네스 디지털 (【告知】新刊あります！)
 #### 알고 싶어! 무조건! 시도해보고 싶어! (知りたい！ゼッタイ！試してみたい！)
-// 미출시. 번역 필요
+🇯🇵 한국어 자막 https://youtu.be/hwd4vmE5yuQ
 
-### SR - 생체 A에 관한 실험적 연구 아그네스 타키온
+### SR - [생체 A에 관한 실험적 연구] 아그네스 타키온
 #### Report 『특화 단련에 의한 가능성』(Report『特化鍛錬による可能性』)
-// 초기 카드임
+🇰🇷 https://youtube.com/shorts/M_89LWynifg
 
-### SSR - Q≠0 아그네스 타키온
+### SSR - [Q≠0] 아그네스 타키온
 #### 질주 : 주력의 한계 돌파에 관한 질적 연구 (疾駆：走力の限界突破に関する質的研究)
 // 한국 출시됨.
+// 저도 이거 카드 없어 썸바디 헬미 영상좀 떠줘요
 
-### SR - GRMA 라멘♪ 파인 모션 (GRMAラーメン♪)
+### SR - [GRMA 라멘♪] 파인 모션 (GRMAラーメン♪)
 #### 너도 클로버야♪ (君もクローバーだよ♪)
 // 한국 출시됨.
 
-### SSR - Hello my clover 파인 모션
+### SSR - [Hello my clover] 파인 모션
 #### 너는 나의 Psychic (キミは私のPsychic)
 // 한국 출시됨.
 
-### SR - 모두에게 굿 마블러스☆ 마블러스 선데이 (みんなにグッドマーベラス☆)
+### SR - [모두에게 굿 마블러스☆] 마블러스 선데이 (みんなにグッドマーベラス☆)
 // 한국 미출시
 #### 알고 싶은 것은 Marvelous☆ (知りたいことはマーベラス☆)
 
 #### 울려 퍼져라 세계에 Marvelous☆ (轟け世界にマーベラス☆)
 
-### SSR - It's on the house. 맨하탄 카페
-// 한국 출시됨
+### SSR - [It's on the house.] 맨하탄 카페
 #### 보이지 않는 건, 보지 않아도 돼 (見えないものは、見なくてもいい)
+🇰🇷 https://youtube.com/shorts/7rDR7CID8YE
 
 #### 커다란 건, 커다랗지 않아 (大きなことは、大きくない)
+🇰🇷 https://youtube.com/shorts/FEE4nSenK34
 
 #### 풀리지 않는 건, 풀리지 않아도 돼 (解けないものは、解けないままでいい)
+🇰🇷 https://youtube.com/shorts/LCseQdD_eHQ
 
-### SSR - 포르투나의 갈채 타니노 김렛
+### SSR - [포르투나의 갈채] 타니노 김렛
 #### 데카메론의 신탁 (デカメロンの神託)
 // 심지어 내가 소장중
 
-### SSR 혈맥의 태동 두라멘테 
+### SSR - [혈맥의 태동] 두라멘테 
 #### Vol.3 "그 이름은 두라멘테" (Vol.3 『その名はドゥラメンテ』)
-
+// 한국어로 찍어서 
 🇯🇵 https://youtu.be/PAu1q-M4Ekk?t=250
 
 ## 인트로 화면 대화 
